@@ -1,0 +1,39 @@
+td {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    background-color: rgb(124, 164, 164);
+}
+
+.nav5 ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: lightblue;
+}
+
+.nav5 ul li {
+    display: inline-block;
+}
+
+.nav5 ul li a {
+    display: block;
+    padding: 15px 20px;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    transition: background-color 0.3s ease;
+}
+
+.nav5 ul li a:hover {
+    background-color: #f8a8ff;
+    color: #555;
+
+}
+
+table {
+    width: 800px; 
+    text-align: center;
+    align-content: center;
+}

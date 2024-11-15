@@ -1,0 +1,174 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.contenedor {
+    background-color: wheat;
+    height: 95vh;
+    margin: 0 auto; 
+
+}
+
+
+.footerr {
+    background-color: lightcyan;
+    height: 2.9vh;
+    text-align: left;
+}
+
+.lista1 {
+    text-align: center;
+    height: 50px;
+}
+
+
+.lista2 {
+    background-color: brown;
+    display: inline-block;
+
+}
+
+.lista3 {
+    background-color: aliceblue;
+    display: inline-block;
+    width: 150px;
+}
+
+
+.alba {
+    width: 300px;
+}
+
+.nav5 ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: khaki;
+}
+
+.nav5 ul li {
+    display: inline-block;
+}
+
+.nav5 ul li a {
+    display: block;
+    padding: 15px 20px;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    transition: background-color 0.3s ease;
+}
+
+.nav5 ul li a:hover {
+    background-color: #f8a8ff;
+    color: #555;
+}
+
+.nav10 {
+    background-color: #999;
+    width: 200px;
+    height: 87.6vh;
+    margin: 0;
+
+}
+
+.nav10 ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav10 ul li {
+    margin: 0;
+}
+
+.nav10 ul li a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #666;
+    transition: background-color 0.3s ease;
+}
+
+.nav10 ul li a:hover {
+    background-color: #333;
+    
+}
+
+
+.contenido {
+    width: 220px;
+    height: 15px;
+    margin: -32%;
+}
+
+.genius{
+    width: 350px;
+    
+}
+
+.nav100 {
+    background-color: #999;
+    width: 200px;
+    height: 89vh;
+    margin: 0;
+
+}
+
+.nav100 ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav100 ul li {
+    margin: 0;
+}
+
+.nav100 ul li a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #666;
+    transition: background-color 0.3s ease;
+}
+
+.nav100 ul li a:hover {
+    background-color: #333;
+    
+}
+
+.footer {
+    background-color: lightcyan;
+    height: 5vh;
+}
+
+.alba {
+    width: 180px;
+    
+}
+
+.contenedorr {
+    background-color: darkblue;
+    height: 94vh;
+    margin: 0 auto;
+}
+.contenedora {
+    background-color: lightblue;
+    height: 94vh;
+    margin: 0 auto;
+}
+
+.contenedoro {
+    background-color: salmon;
+    height: 94vh;
+    margin: 0 auto;
+}
+.contienedor {
+    background-color: gainsboro;
+    height: 94vh;
+    margin: 0 auto;
+}
