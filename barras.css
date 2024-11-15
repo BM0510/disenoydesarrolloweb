@@ -1,0 +1,16 @@
+ul {
+    background-color: white;
+    text-align: center;
+    height: 50px;
+    
+}
+
+li {
+    background-color: brown;
+    display: inline-block;
+}
+a {
+    background-color: rgb(255, 65, 65);
+    display: inline-block;
+    width: 150px;
+}
